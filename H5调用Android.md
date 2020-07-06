@@ -3,3 +3,5 @@
   ```
     window.android_finish.call()
   ```
+- #### 左上方回退按键变为关闭
+  #### 传入加载url拼接字段headType=1
